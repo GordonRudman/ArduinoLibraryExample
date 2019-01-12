@@ -1,0 +1,1 @@
+Example	KEYWORD1 bool	KEYWORD1 doSomething	KEYWORD2  January	LITERAL1
