@@ -4,8 +4,11 @@ Author:
  
 class Example
 {
-	private:
-	
 	public:
-	void doSomething();	 
+		Example(int givenValue); //Constructor
+		void doSomething();	 
+
+	private:
+    	int someValue;
+		void doSomethingSecret();
 }; 
